@@ -11,7 +11,7 @@ Este es un proyecto de demostración que utiliza Spring Boot para crear una API 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone  https://github.com/JhonyGms/api_secu.git
 
 2. Abre el proyecto en tu IDE favorito.
 3. Ejecuta la aplicación.
